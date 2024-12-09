@@ -31,8 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -116,8 +115,7 @@ background-size:contain;
 </div>
 </body>
 </html>
-
-'''
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-12-09 225537.png>)
